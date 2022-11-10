@@ -1,0 +1,15 @@
+img {
+  width: 200px;
+  height: 200px;  
+  border-radius: 100px;
+}
+
+ol {
+  /* list-style: none; */
+  color: rgb(251, 255, 0);
+}
+
+li {
+ /* list-style: square; list-style: none; */
+ color: rgb( 251, 100, 0)
+}

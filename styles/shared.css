@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: rgb(223, 215, 207);
+  margin: 50px;
+}
+
+h1 {
+  font-family: 'oswald', sans-serif;
+  color: rgb(83,75,75);
+}
+
+p {
+  font-family:  'fira sans', sans-serif;
+  color: rgb(129, 12, 12);
+  margin: 0;
+}
