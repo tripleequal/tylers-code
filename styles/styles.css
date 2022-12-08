@@ -81,3 +81,7 @@ footer a:active {
 .highlight {
   font-weight: bold;
 }
+
+.dummy-rule {
+  color: yellow;
+}
